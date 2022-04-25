@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<HTML lang="pt-bbr">
+    <head>
+        <meta charset="UFT=8">
+        <TITLE></TITLE>
+    </head>
+         <FORM NAME="IMC" METhod="post action="calculaddora.php
+               PESO: <input type="text" name="peso">
+               <type= "50">
+               altura: <input type="text" name="altura">
+               <type ="1.60" >
+               imput=IMC=50 kg=(1.60m x 1.60m)= 19.5 peso ideal
+               <imput type="submit" value="enviar">
+         </FORM>
+        </body>
+</html>
+
+ 
